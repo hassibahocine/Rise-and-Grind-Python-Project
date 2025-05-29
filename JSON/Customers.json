@@ -1,0 +1,12 @@
+{
+    "Customers": {
+        "Fake Name": {
+            "address": "fake",
+            "postcode": "fake"
+        },
+        "John Smith": {
+            "address": "hello",
+            "postcode": "asda"
+        }
+    }
+}
